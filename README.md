@@ -1,5 +1,6 @@
 ### Yoo there 👋
-<div style="padding-top:80.000%;position:relative;"><video class="media-url__media" loop="" autoplay="" muted="" playsinline="" width="100%"><source src="https://i.gifer.com/12Ru.mp4" itemprop="contentUrl" type="video/mp4"></video></div>
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <p align='center'>
   <img  src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
