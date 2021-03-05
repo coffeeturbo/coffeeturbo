@@ -1,5 +1,5 @@
 ### Yoo there 👋
-<div style="padding-top:80.000%;position:relative;"><iframe src="https://gifer.com/embed/dGF" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
+<div style="padding-top:80.000%;position:relative;"><img src="https://i.gifer.com/dGF.webp" /></div>
 
 <p align='center'>
   <img  src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
