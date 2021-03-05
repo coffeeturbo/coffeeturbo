@@ -1,6 +1,6 @@
-### Hi there 👋
+### Yoo there 👋
 <p align='center'>
-  <img  src="https://i.gifer.com/dGF.gif" alt="php java developping" />
+  <img  src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
 </p>
 
 
