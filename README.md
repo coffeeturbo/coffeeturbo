@@ -1,10 +1,7 @@
 ### Yoo there 👋
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-
-<p align='center'>
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-</p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=coffeeturbo&hide=stars,prs,issues,contribs)
