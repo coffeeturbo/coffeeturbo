@@ -3,7 +3,7 @@
 
 
 <p align='center'>
-  ![Writing code](https://i.gifer.com/dGF.gif)
+  ![alt text](https://i.gifer.com/dGF.gif)
 </p>
 
 
