@@ -9,8 +9,6 @@ Now I'm Java Developer!
 You can contact with me in https://t.me/gazetochka_vyacha
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=coffeeturbo&hide=stars,prs,issues,contribs) -->
